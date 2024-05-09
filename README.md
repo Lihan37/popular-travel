@@ -4,15 +4,14 @@
 1. **Clone the Repository**: git clone <https://github.com/Lihan37/popular-travel.git>
 
 
-2. **Install Dependencies**: cd project-folder
-npm install
+2. **Install Dependencies**: 1.cd project-folder 2.npm install
 
 
 3. **Run the Development Server**: npm run dev
 
 
 ## Time Spent
-I spent approximately X hours to complete this project.
+I spent approximately 3 hours to complete this project.
 
 ## Best Practices Implemented
 - Utilized React hooks for managing state and side effects.
